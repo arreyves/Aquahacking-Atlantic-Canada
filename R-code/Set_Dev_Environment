@@ -1,2 +1,16 @@
 
 # Spatial prediction and assessment in real time
+
+## Based on previously presented theory, we can summarize the usual PSM processes as:
+
+    Preparation of point data (training data).
+
+    Preparation of covariate data (the explanatory variables).
+
+    Model fitting and validation (building rules by overlay, model fitting and cross-validation).
+
+    Prediction and generation of (currently best-possible) final maps (applying the rules).
+
+    Archiving and distribution of maps (usually via soil geographical databases and/or web services).
+
+    Updates and improvements (support).
